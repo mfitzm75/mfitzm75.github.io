@@ -22,7 +22,6 @@ h1 {
   overflow:hidden; 
   background-color:#e3b403;
   display:flex;
-  justify-content:center;
   align-items:center;
 }
 ul li a {
