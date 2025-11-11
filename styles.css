@@ -35,7 +35,6 @@ ul li a {
   font-family:Roboto, sans-serif;
   font-weight: 350;
   font-style: normal;
-  justify-content:center;
 }
 .nav-link {
   float:left;
@@ -75,6 +74,8 @@ div {
   padding:30px;
   text-align:center;
   background-color:#ffebe7
+  justify-content:center;
+
 }
 #least-header {
   background-color:#da5555;
